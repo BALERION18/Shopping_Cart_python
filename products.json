@@ -1,0 +1,133 @@
+[
+  {
+    "type": "physical",
+    "product_id": "P001",
+    "name": "Bluetooth Headphones",
+    "price": 1599.0,
+    "quantity_available": 10,
+    "weight": 0.25
+  },
+  {
+    "type": "physical",
+    "product_id": "P002",
+    "name": "Laptop Backpack",
+    "price": 999.0,
+    "quantity_available": 15,
+    "weight": 1.0
+  },
+  {
+    "type": "physical",
+    "product_id": "P003",
+    "name": "Water Bottle (1L)",
+    "price": 299.0,
+    "quantity_available": 25,
+    "weight": 0.5
+  },
+  {
+    "type": "physical",
+    "product_id": "P004",
+    "name": "Wireless Mouse",
+    "price": 499.0,
+    "quantity_available": 20,
+    "weight": 0.15
+  },
+  {
+    "type": "physical",
+    "product_id": "P005",
+    "name": "Notebook Set (Pack of 3)",
+    "price": 199.0,
+    "quantity_available": 30,
+    "weight": 0.6
+  },
+  {
+    "type": "digital",
+    "product_id": "D001",
+    "name": "E-Book: Learn Python",
+    "price": 349.0,
+    "quantity_available": 100
+  },
+  {
+    "type": "digital",
+    "product_id": "D002",
+    "name": "E-Book: Data Structures",
+    "price": 399.0,
+    "quantity_available": 100
+  },
+  {
+    "type": "digital",
+    "product_id": "D003",
+    "name": "Music Album (MP3)",
+    "price": 249.0,
+    "quantity_available": 200
+  },
+  {
+    "type": "physical",
+    "product_id": "P006",
+    "name": "Power Bank (10000 mAh)",
+    "price": 1299.0,
+    "quantity_available": 18,
+    "weight": 0.3
+  },
+  {
+    "type": "physical",
+    "product_id": "P007",
+    "name": "USB Flash Drive (64GB)",
+    "price": 549.0,
+    "quantity_available": 40,
+    "weight": 0.05
+  },
+  {
+    "type": "physical",
+    "product_id": "P008",
+    "name": "Desk Organizer",
+    "price": 349.0,
+    "quantity_available": 22,
+    "weight": 0.9
+  },
+  {
+    "type": "digital",
+    "product_id": "D004",
+    "name": "Online Course: Java Programming",
+    "price": 999.0,
+    "quantity_available": 50
+  },
+  {
+    "type": "physical",
+    "product_id": "P009",
+    "name": "Table Lamp (LED)",
+    "price": 799.0,
+    "quantity_available": 12,
+    "weight": 1.2
+  },
+  {
+    "type": "digital",
+    "product_id": "D005",
+    "name": "Stock Market Guide (PDF)",
+    "price": 299.0,
+    "quantity_available": 150
+  },
+  {
+    "type": "physical",
+    "product_id": "P010",
+    "name": "Mobile Stand",
+    "price": 149.0,
+    "quantity_available": 35,
+    "weight": 0.1
+  },
+  {
+    "type": "physical",
+    "product_id": "P011",
+    "name": "Game of thrones",
+    "price": 349.0,
+    "quantity_available": 35,
+    "weight": 1.5
+  },
+  {
+    "type": "digital",
+    "product_id": "P012",
+    "name": "Hairdresser",
+    "price": 799.0,
+    "quantity_available": 35,
+    "weight": 1.0
+  }
+]
